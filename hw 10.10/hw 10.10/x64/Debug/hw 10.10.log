@@ -1,0 +1,4 @@
+﻿  hw 10.10.cpp
+C:\Users\User\Desktop\Code\hw 10.10\hw 10.10\hw 10.10.cpp(6,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Code\hw 10.10\hw 10.10\hw 10.10.cpp(22): warning C4715: reverse: значение возвращается не при всех путях выполнения
+  hw 10.10.vcxproj -> C:\Users\User\Desktop\Code\hw 10.10\x64\Debug\hw 10.10.exe
